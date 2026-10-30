@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Document Intelligence & Business Automation Agent
 
 A Streamlit application for PDF extraction, semantic retrieval (RAG), grounded document Q&A, AI summaries, potential contract risk identification, action-item extraction, and PDF reporting.
@@ -43,3 +44,6 @@ A sample synthetic service agreement is available in `sample_documents/`.
 - Groq is used for generation; keep your API key private and never commit `.env`.
 - AI findings are preliminary and must be reviewed by a human. This is not legal advice.
 - Uploaded documents are held in the Streamlit session and are not intentionally persisted by this app.
+=======
+# Ai-powered-Document-intelligence-system
+>>>>>>> 4c2ee5f3bf4502efbb8d9dc1640ca7c5a76d57a1
